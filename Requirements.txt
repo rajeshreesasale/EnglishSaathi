@@ -1,4 +1,0 @@
-streamlit>=1.38
-groq>=1.7.0
-streamlit-mic-recorder>=0.0.8
-httpx>=0.28.1
